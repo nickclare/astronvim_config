@@ -9,4 +9,7 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+  "simrat39/rust-tools.nvim",
+  },
 }
